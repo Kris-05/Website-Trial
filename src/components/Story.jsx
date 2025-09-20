@@ -61,7 +61,7 @@ const Story = () => {
             <div className='story-img-mask'>
               <div className='story-img-content'>
                 <img 
-                  src="/img/entrance.webp"
+                  src="/img/gallery-4.webp"
                   alt="entrance"
                   className='object-contain'
                   ref = {frameRef}
